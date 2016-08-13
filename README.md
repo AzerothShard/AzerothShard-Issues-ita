@@ -4,13 +4,6 @@ Bugs & Issues manager per il nuovo core di Azeroth Shard
 
 [VAI ALLE ISSUES](https://github.com/AzerothShard/AzerothShard-Issues-ita/issues)
 
-Features attive (testate e funzionanti):
-- Arena 1vs1
-- Transmogrifier
-- Crossfaction system per Dungeons, Raids e Battlegrounds
-- Case di Gilda
-- Titoli PVP Vanilla
-
 Raid attivi (testati e funzionanti):
 - Naxxramas
 - Ulduar
