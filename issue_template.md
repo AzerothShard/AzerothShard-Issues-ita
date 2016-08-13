@@ -15,6 +15,8 @@ già reportata effettuando una ricerca su questo repository.
 
 - Completate infine la issue riempendo i punti elencati qui sotto...
 
+NOTA: una segnalazione che non segue queste linee guida potrebbe essere chiusa direttamente dai nostri moderatori
+
 **===================================================================**
 
 
